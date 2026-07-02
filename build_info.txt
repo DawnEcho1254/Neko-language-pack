@@ -1,0 +1,310 @@
+Timestamp: 1781333249
+Build Time: 2026-06-13 14:47:29
+Build Mode: Standard Build
+Release Mode: Yes
+Include Mods: Yes
+Builder: m1883
+Version: 1.15+
+Mod Cache: 2026-06-13 14:47:24 (config:2026052401)
+
+-[core]2467469 minecraft
+-[core]2698443 minecraft_fool
+-[core]2743501 create
+-[core]2569365 item_descriptions
+-[core]2816515 Meowcraft Transit Railway
+-[core]2813744 emi
+
+config：
+{
+  "config_version": "2026052401",
+  "script_version": "7",
+  "minecraft_path": "",
+  "assets": {
+    "config_url": "https://paratranz.cn/api/projects/16715/files/2813017/translation",
+    "asset_url": "https://cdn-alt.modrinth.com/data/YzCQisiC/versions/CMkJHymF/nlpbuilderasset2.1.3.zip",
+    "latest_version": "0.0.0",
+    "update_url": ""
+  },
+  "remote_files": [
+    {
+      "id": "2467469",
+      "name": "minecraft",
+      "url": "https://paratranz.cn/api/projects/16715/files/2467469/translation",
+      "path": "assets/minecraft/lang/zh_cn.json",
+      "type": "base",
+      "is_extra": "false"
+    },
+    {
+      "id": "2698443",
+      "name": "minecraft_fool",
+      "url": "https://paratranz.cn/api/projects/16715/files/2698443/translation",
+      "path": "assets/minecraft/lang/zh_cn.json",
+      "type": "append",
+      "target_id": "2467469",
+      "is_extra": "false"
+    },
+    {
+      "id": "2743501",
+      "name": "create",
+      "url": "https://paratranz.cn/api/projects/16715/files/2743501/translation",
+      "path": "assets/create/lang/zh_cn.json",
+      "type": "base",
+      "is_extra": "false"
+    },
+    {
+      "id": "2569365",
+      "name": "item_descriptions",
+      "url": "https://paratranz.cn/api/projects/16715/files/2569365/translation",
+      "path": "assets/item_descriptions/lang/zh_cn.json",
+      "type": "base",
+      "is_extra": "false"
+    },
+    {
+      "id": "2807993",
+      "name": "worldedit",
+      "url": "https://paratranz.cn/api/projects/16715/files/2807993/translation",
+      "path": "assets/worldedit/lang/zh_cn.json",
+      "type": "base",
+      "is_extra": "true"
+    },
+    {
+      "id": "2810878",
+      "name": "farmersdelight",
+      "url": "https://paratranz.cn/api/projects/16715/files/2810878/translation",
+      "path": "assets/farmersdelight/lang/zh_cn.json",
+      "type": "base",
+      "is_extra": "true"
+    },
+    {
+      "id": "2467475",
+      "name": "item_name",
+      "url": "https://paratranz.cn/api/projects/16715/files/2467475/translation",
+      "path": "assets/minecraft/lang/zh_cn.json",
+      "type": "append",
+      "target_id": "2467469",
+      "is_extra": "true"
+    },
+    {
+      "id": "2467476",
+      "name": "enchantment_name",
+      "url": "https://paratranz.cn/api/projects/16715/files/2467476/translation",
+      "path": "assets/minecraft/lang/zh_cn.json",
+      "type": "append",
+      "target_id": "2467469",
+      "is_extra": "true"
+    },
+    {
+      "id": "2813741",
+      "name": "appleskin",
+      "url": "https://paratranz.cn/api/projects/16715/files/2813741/translation",
+      "path": "assets/appleskin/lang/zh_cn.json",
+      "type": "mod",
+      "is_extra": "false"
+    },
+    {
+      "id": "2813742",
+      "name": "cherishedworlds",
+      "url": "https://paratranz.cn/api/projects/16715/files/2813742/translation",
+      "path": "assets/cherishedworlds/lang/zh_cn.json",
+      "type": "mod",
+      "is_extra": "false"
+    },
+    {
+      "id": "2813743",
+      "name": "flashback",
+      "url": "https://paratranz.cn/api/projects/16715/files/2813743/translation",
+      "path": "assets/flashback/lang/zh_cn.json",
+      "type": "mod",
+      "is_extra": "false"
+    },
+    {
+      "id": "2813733",
+      "name": "languagereload",
+      "url": "https://paratranz.cn/api/projects/16715/files/2813733/translation",
+      "path": "assets/languagereload/lang/zh_cn.json",
+      "type": "mod",
+      "is_extra": "false"
+    },
+    {
+      "id": "2813734",
+      "name": "lanserverproperties",
+      "url": "https://paratranz.cn/api/projects/16715/files/2813734/translation",
+      "path": "assets/lanserverproperties/lang/zh_cn.json",
+      "type": "mod",
+      "is_extra": "false"
+    },
+    {
+      "id": "2813735",
+      "name": "mcwifipnp",
+      "url": "https://paratranz.cn/api/projects/16715/files/2813735/translation",
+      "path": "assets/mcwifipnp/lang/zh_cn.json",
+      "type": "mod",
+      "is_extra": "false"
+    },
+    {
+      "id": "2813736",
+      "name": "modmenu",
+      "url": "https://paratranz.cn/api/projects/16715/files/2813736/translation",
+      "path": "assets/modmenu/lang/zh_cn.json",
+      "type": "mod",
+      "is_extra": "false"
+    },
+    {
+      "id": "2813737",
+      "name": "neo_language_reload",
+      "url": "https://paratranz.cn/api/projects/16715/files/2813737/translation",
+      "path": "assets/neo_language_reload/lang/zh_cn.json",
+      "type": "mod",
+      "is_extra": "false"
+    },
+    {
+      "id": "2813738",
+      "name": "nochatreports",
+      "url": "https://paratranz.cn/api/projects/16715/files/2813738/translation",
+      "path": "assets/nochatreports/lang/zh_cn.json",
+      "type": "mod",
+      "is_extra": "false"
+    },
+    {
+      "id": "2813739",
+      "name": "ponder",
+      "url": "https://paratranz.cn/api/projects/16715/files/2813739/translation",
+      "path": "assets/ponder/lang/zh_cn.json",
+      "type": "mod",
+      "is_extra": "false"
+    },
+    {
+      "id": "2816515",
+      "name": "Meowcraft Transit Railway",
+      "url": "https://paratranz.cn/api/projects/16715/files/2816515/translation",
+      "path": "assets/mtr/lang/zh_cn.json",
+      "type": "base",
+      "is_extra": "false"
+    },
+    {
+      "id": "2813740",
+      "name": "sodium",
+      "url": "https://paratranz.cn/api/projects/16715/files/2813740/translation",
+      "path": "assets/sodium/lang/zh_cn.json",
+      "type": "base",
+      "is_extra": "true"
+    },
+    {
+      "id": "2813744",
+      "name": "emi",
+      "url": "https://paratranz.cn/api/projects/16715/files/2813744/translation",
+      "path": "assets/emi/lang/zh_cn.json",
+      "type": "base",
+      "is_extra": "false"
+    },
+    {
+      "id": "2860170",
+      "name": "ae2",
+      "url": "https://paratranz.cn/api/projects/16715/files/2860170/translation",
+      "path": "assets/ae2/lang/zh_cn.json",
+      "type": "base",
+      "is_extra": "true"
+    },
+    {
+      "id": "3020233",
+      "name": "commandkeys",
+      "url": "https://paratranz.cn/api/projects/16715/files/3020233/translation",
+      "path": "assets/commandkeys/lang/zh_cn.json",
+      "type": "mod",
+      "is_extra": "false"
+    },
+    {
+      "id": "3027468",
+      "name": "minihud",
+      "url": "https://paratranz.cn/api/projects/16715/files/3027468/translation",
+      "type": "mod",
+      "path": "assets/minihud/lang/zh_cn.json",
+      "is_extra": "false"
+    },
+    {
+      "id": "3027472",
+      "name": "malilib",
+      "url": "https://paratranz.cn/api/projects/16715/files/3027472/translation",
+      "type": "mod",
+      "path": "assets/malilib/lang/zh_cn.json",
+      "is_extra": "false"
+    },
+    {
+      "id": "3027470",
+      "name": "tweakeroo",
+      "url": "https://paratranz.cn/api/projects/16715/files/3027470/translation",
+      "type": "mod",
+      "path": "assets/tweakeroo/lang/zh_cn.json",
+      "is_extra": "false"
+    },
+    {
+      "id": "3027469",
+      "name": "tweakermore",
+      "url": "https://paratranz.cn/api/projects/16715/files/3027469/translation",
+      "type": "mod",
+      "path": "assets/tweakermore/lang/zh_cn.json",
+      "is_extra": "false"
+    },
+    {
+      "id": "3042110",
+      "name": "xaerominimap",
+      "url": "https://paratranz.cn/api/projects/16715/files/3042110/translation",
+      "type": "mod",
+      "path": "assets/xaerominimap/lang/zh_cn.json",
+      "is_extra": "false"
+    },
+    {
+      "id": "3042109",
+      "name": "xaeroworldmap",
+      "url": "https://paratranz.cn/api/projects/16715/files/3042109/translation",
+      "type": "mod",
+      "path": "assets/xaeroworldmap/lang/zh_cn.json",
+      "is_extra": "false"
+    },
+    {
+      "id": "2849356",
+      "name": "menulogue",
+      "url": "https://paratranz.cn/api/projects/16715/files/2849356/translation",
+      "type": "mod",
+      "path": "assets/menulogue/lang/zh_cn.json",
+      "is_extra": "false"
+    },
+    {
+      "id": "3042720",
+      "name": "sodium-extra",
+      "url": "https://paratranz.cn/api/projects/16715/files/3042720/translation",
+      "type": "mod",
+      "path": "assets/sodium-extra/lang/zh_cn.json",
+      "is_extra": "false"
+    },
+    {
+      "id": "3066312",
+      "name": "vivecraft",
+      "url": "https://paratranz.cn/api/projects/16715/files/3066312/translation",
+      "type": "mod",
+      "path": "assets/vivecraft/lang/zh_cn.json",
+      "is_extra": "false"
+    },
+    {
+      "id": "3069298",
+      "name": "chatpatches",
+      "url": "https://paratranz.cn/api/projects/16715/files/3069298/translation",
+      "type": "mod",
+      "path": "assets/chatpatches/lang/zh_cn.json",
+      "is_extra": "false"
+    }
+  ],
+  "versions": [
+    "1.15+",
+    "1.13",
+    "1.14"
+  ]
+}
+```
+Pack_time: 2026-06-13 14:54:55
+File_version: 1.15+
+Pack version: v2.1.4-rc2
+
+Upload Time: 2026-06-13 15:00:23
+Upload Version: 2.1.4
+Detected Game Versions: 1.15 - 26.1.2

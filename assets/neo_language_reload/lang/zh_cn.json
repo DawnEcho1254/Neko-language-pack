@@ -1,0 +1,7 @@
+{
+  "language.default.tooltip": "原味Minecraft",
+  "debug.reload_languages.help": "F3 + J = 重新加载语言喵（按住Shift可以切换语言喵）",
+  "debug.reload_languages.message": "语言文件重新加载了喵～",
+  "debug.reload_languages.switch.success": "语言设置成%s了喵～",
+  "debug.reload_languages.switch.failure": "无法循环切换语言，请在设置中切换至其他语言后重试。切换语言失败了喵...在设置里先切换成别的语言再试试喵？"
+}

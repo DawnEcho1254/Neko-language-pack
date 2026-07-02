@@ -1,0 +1,20 @@
+{
+  "gui.xaero_add_edit": "添加/编辑喵",
+  "gui.xaero_waypoint_teleport": "传送喵！",
+  "gui.xaero_deathpoint": "上次似的地方",
+  "gui.xaero_deathpoint_old": "之前似的地点",
+  "gui.xaero_deathpoints": "似的地方",
+  "gui.xaero_clear": "删掉集合喵",
+  "gui.xaero_clear_set_message": "主人真的要删掉这个集合吗",
+  "gui.xaero_clear_set_message2": "  所有传送点就全都消失了喵QAQ！",
+  "gui.xaero_create_set": "新建传送点集合喵",
+  "gui.xaero_delete_set_message": "主人真的要删掉这个集合吗喵？",
+  "gui.xaero_delete_set_message2": "删掉就都没了喵QAQ",
+  "gui.xaero_options": "选项喵",
+  "gui.xaero_share": "分享喵",
+  "gui.xaero_share_msg1": "主人真的要把这个传送点告诉别人嘛？",
+  "gui.xaero_share_msg2": "不要把秘密基地传出去了哦！",
+  "gui.xaero_waypoint_shared": "%1$s桑分享了一个叫“%2$s”的传送点喵！ §2§n[点我添加]",
+  "gui.xaero_waypoint_shared_dimension": "%1$s 分享了一个来自 %3$s 的叫为“%2$s”的路径点喵！ §2§n[点我添加]",
+  "gui.xaero_waypoint_unknown_dimension": "不知道哪个维度"
+}

@@ -1,0 +1,22 @@
+{
+  "text.autoconfig.appleskin.option.showFoodValuesInTooltip.@Tooltip": "按住shift就能在信息框里看到食物能补充多少营养了喵。",
+  "text.autoconfig.appleskin.option.showFoodValuesInTooltipAlways.@Tooltip": "不需要按shift也会在信息框里显示食物的营养喵！",
+  "text.autoconfig.appleskin.option.showFoodValuesHudOverlay.@Tooltip": "会显示手里拿着的食物能补充多少饥饿值喵。如果打开了“显示饱和度”也会顺带显示饱和度喵。",
+  "text.autoconfig.appleskin.option.showFoodValuesHudOverlayWhenOffhand.@Tooltip": "主手拿食物会显示的信息，副手拿也会显示喵！",
+  "text.autoconfig.appleskin.option.showFoodHealthHudOverlay.@Tooltip": "会显示手里拿的食物能补多少爱心喵！",
+  "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay.@Tooltip": "会在饥饿条后显示消耗度喵。",
+  "text.autoconfig.appleskin.option.showSaturationHudOverlay.@Tooltip": "会在鸡腿条上用金色描边来显示饱和度喵。",
+  "text.autoconfig.appleskin.option.showFoodDebugInfo.@Tooltip": "会在调试屏幕里显示主人的饥饿值、饱和度和消耗度喵。",
+  "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay.@Tooltip": "生命条和鸡腿条抖的时候会和它们一起动喵。",
+  "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha.@Tooltip": "设置闪烁图标的透明度喵。（1.0是不透明，0.0是完全透明喵）",
+  "appleskin.configuration.showFoodValuesInTooltip.tooltip": "按住shift就能在信息框里看到食物能补充多少营养了喵。",
+  "appleskin.configuration.showFoodValuesInTooltipAlways.tooltip": "不需要按shift也会在信息框里显示食物的营养喵！",
+  "appleskin.configuration.showFoodValuesHudOverlay.tooltip": "会显示手里拿着的食物能补充多少饥饿值喵。如果打开了“显示饱和度”也会顺带显示饱和度喵。",
+  "appleskin.configuration.showFoodValuesHudOverlayWhenOffhand.tooltip": "主手拿食物会显示的信息，副手拿也会显示喵！",
+  "appleskin.configuration.showFoodHealthHudOverlay.tooltip": "会显示手里拿的食物能补多少爱心喵！",
+  "appleskin.configuration.showFoodExhaustionHudUnderlay.tooltip": "会在饥饿条后显示消耗度喵。",
+  "appleskin.configuration.showSaturationHudOverlay.tooltip": "会在鸡腿条上用金色描边来显示饱和度喵。",
+  "appleskin.configuration.showFoodStatsInDebugOverlay.tooltip": "会在调试屏幕里显示主人的饥饿值、饱和度和消耗度喵。",
+  "appleskin.configuration.showVanillaAnimationsOverlay.tooltip": "生命条和鸡腿条抖的时候会和它们一起动喵。",
+  "appleskin.configuration.maxHudOverlayFlashAlpha.tooltip": "设置闪烁图标的透明度喵。（1.0是不透明，0.0是完全透明喵）"
+}

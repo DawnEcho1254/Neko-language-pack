@@ -1,0 +1,21 @@
+{
+  "tweakeroo.config.feature_toggle.prettyName.tweakBundleDisplay": "透视收纳袋",
+  "tweakeroo.config.feature_toggle.prettyName.tweakEmptyShulkerBoxesStack": "懒猫堆盒子",
+  "tweakeroo.config.feature_toggle.prettyName.tweakFakeSneaking": "猫步",
+  "tweakeroo.config.feature_toggle.prettyName.tweakFastLeftClick": "无影爪•左",
+  "tweakeroo.config.feature_toggle.prettyName.tweakFastRightClick": "无影爪•右",
+  "tweakeroo.config.feature_toggle.prettyName.tweakFreeCamera": "喵喵观察机",
+  "tweakeroo.config.feature_toggle.prettyName.tweakGammaOverride": "猫の眼",
+  "tweakeroo.config.feature_toggle.prettyName.tweakHoldAttack": "左键焊死",
+  "tweakeroo.config.feature_toggle.prettyName.tweakHoldUse": "右键焊死",
+  "tweakeroo.config.feature_toggle.prettyName.tweakInventoryPreview": "箱子透视",
+  "tweakeroo.config.feature_toggle.prettyName.tweakMovementKeysLast": "按键插队",
+  "tweakeroo.config.feature_toggle.prettyName.tweakPeriodicAttack": "自动左键",
+  "tweakeroo.config.feature_toggle.prettyName.tweakPeriodicHoldAttack": "自动长按左键",
+  "tweakeroo.config.feature_toggle.prettyName.tweakPeriodicHoldUse": "自动长按右键",
+  "tweakeroo.config.feature_toggle.prettyName.tweakPeriodicUse": "自动右键",
+  "tweakeroo.config.feature_toggle.prettyName.tweakPermanentSneak": "悄咪咪...",
+  "tweakeroo.config.feature_toggle.prettyName.tweakPermanentSprint": "冲冲冲",
+  "tweakeroo.config.feature_toggle.prettyName.tweakSignCopy": "文案搬运工",
+  "tweakeroo.config.feature_toggle.prettyName.tweakToolSwitch": "懒猫工具箱"
+}
